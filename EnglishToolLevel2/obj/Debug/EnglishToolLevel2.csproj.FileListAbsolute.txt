@@ -1,0 +1,10 @@
+D:\Communication English 2\EnglishToolLevel2\EnglishToolLevel2\bin\Debug\EnglishToolLevel2.exe.config
+D:\Communication English 2\EnglishToolLevel2\EnglishToolLevel2\bin\Debug\EnglishToolLevel2.exe
+D:\Communication English 2\EnglishToolLevel2\EnglishToolLevel2\bin\Debug\EnglishToolLevel2.pdb
+D:\Communication English 2\EnglishToolLevel2\EnglishToolLevel2\obj\Debug\EnglishToolLevel2.csproj.AssemblyReference.cache
+D:\Communication English 2\EnglishToolLevel2\EnglishToolLevel2\obj\Debug\EnglishToolLevel2.Form1.resources
+D:\Communication English 2\EnglishToolLevel2\EnglishToolLevel2\obj\Debug\EnglishToolLevel2.Properties.Resources.resources
+D:\Communication English 2\EnglishToolLevel2\EnglishToolLevel2\obj\Debug\EnglishToolLevel2.csproj.GenerateResource.cache
+D:\Communication English 2\EnglishToolLevel2\EnglishToolLevel2\obj\Debug\EnglishToolLevel2.csproj.CoreCompileInputs.cache
+D:\Communication English 2\EnglishToolLevel2\EnglishToolLevel2\obj\Debug\EnglishToolLevel2.exe
+D:\Communication English 2\EnglishToolLevel2\EnglishToolLevel2\obj\Debug\EnglishToolLevel2.pdb
